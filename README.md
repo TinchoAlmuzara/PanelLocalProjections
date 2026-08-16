@@ -16,8 +16,4 @@ The <ins>**R_code**</ins> directory contains R code:
   - It accommodates the same options and refinements as the Matlab code.
   - The file **usage_example.R** illustrates how to use it.
 
-The <ins>**replication**</ins> directory contains files to replicate the simulation study of Section 4 and the empirical analysis of Section 5.
-> [!NOTE]
-> The empirical analysis uses Compustat and CRSP data which are proprietary and cannot be shared. This is why panel_data.csv appears empty in sec5_empirical_illustration/indata.  
-
 
